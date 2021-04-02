@@ -1,0 +1,1 @@
+This is my first "react-auth-project with react-router" with Programming Hero Team. The name of my project is "Bahon". Here I've used some bootstrap classes for design. User will be able to login with google authentication and github authentication. Live website link given in about section on github repository.
